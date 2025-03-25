@@ -2,11 +2,22 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses taught during my Master's in Data Science
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Stony Brook University
 
-Organize your courses by years, topics, or universities, however you like!
+### 2024-2025
+- **AMS 572: `Data Analysis`**  
+  Grade - A
+- **AMS 507: `Introduction to Probability`**  
+  Grade - A
+- **AMS 691: `NLP`**  
+  Grade - A
+- **ISE 503: `Data Management`**  
+  Grade - A
+- **CSE 564: `Visualization`**  
+- **AMS 597: `Statistical Computing`**  
+- **AMS 691: `Statistical Learning`**  
