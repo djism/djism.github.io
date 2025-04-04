@@ -4,13 +4,13 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-blog",
-          title: "blog",
+          title: "Blog",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -24,21 +24,21 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "A continuously expanding showcase of my exciting projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
+          title: "Teaching",
           description: "Courses taught during my Master&#39;s in Data Science",
           section: "Navigation",
           handler: () => {
@@ -410,7 +410,22 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "books-data-science-from-scratch",
+    },{id: "books-statistics-and-data-analysis",
+          title: 'Statistics and Data Analysis',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/book_data_analysis/";
+            },},{id: "books-database-systems",
+          title: 'Database Systems',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/book_database/";
+            },},{id: "books-first-course-in-probability",
+          title: 'First Course in Probability',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/book_probability/";
+            },},{id: "books-data-science-from-scratch",
           title: 'Data Science from Scratch',
           description: "",
           section: "Books",handler: () => {
@@ -428,42 +443,42 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-insightlens",
           title: 'InsightLens',
-          description: "Interactive Census Data Visualization Platform",
+          description: "Developed an interactive data visualization platform using D3.js to explore and analyze the Adult Census dataset, integrating data preprocessing and web-based analytics.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-dimensiondive",
           title: 'DimensionDive',
-          description: "Interactive Population Data Analyzer",
+          description: "Built a Flask-based web platform integrating PCA and K-means clustering for automated dimensionality reduction, feature identification, and interactive data analysis.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-semantiscope",
           title: 'SemantiScope',
-          description: "Word Context Intelligence Platform",
+          description: "This project explores distributional word vectors using co-occurrence counts, TF-IDF, and PMI to analyze semantic similarity, evaluate word embeddings, and examine the impact of context window sizes on word relationships.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-syntaxsense",
           title: 'SyntaxSense',
-          description: "Neural POS Pattern Recognition System",
+          description: "The project focuses on building and improving a neural network-based Part-of-Speech (POS) tagger using different architectures, feature engineering, and pretrained embeddings to enhance accuracy.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-bertvision",
           title: 'BERTVision',
-          description: "Contextual Classification Optimization Engine",
+          description: "The project explores text classification using pretrained BERT models, comparing different feature extraction methods ([CLS] token, mean-max pooling) and evaluating the impact of fine-tuning on classification performance.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-linguabridge",
           title: 'LinguaBridge',
-          description: "Adaptive Multilingual Document Summarization Platform",
+          description: "This project focuses on building a multilingual text summarization system that efficiently generates concise summaries across different languages.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-skygauger",
           title: 'SKYGauger',
-          description: "Online Travel Reservation System – Database Design &amp; Implementation",
+          description: "The project propose to design and implement a relational database system for an online travel reservation platform supporting flight bookings, reverse auctions, and role-based access for customers, representatives, and managers using an E-R model and SQL.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-fraudshield",
-          title: 'FraudShield',
-          description: "AI Fraud Detection System",
+            },},{id: "projects-predictstock",
+          title: 'PredictStock',
+          description: "A machine learning application that forecasts next-day stock prices using historical market data and provides interactive visualizations of price trends and technical indicators to support investment decisions.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{
@@ -479,13 +494,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/djism", "_blank");
-        },
-      },{
-        id: 'social-leetcode',
-        title: 'LeetCode',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://leetcode.com/u/djbash96/", "_blank");
         },
       },{
         id: 'social-linkedin',
