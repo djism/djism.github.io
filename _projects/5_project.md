@@ -1,9 +1,9 @@
 ---
 layout: page
 title: BERTVision
-description: Contextual Classification Optimization Engine
+description: The project explores text classification using pretrained BERT models, comparing different feature extraction methods ([CLS] token, mean-max pooling) and evaluating the impact of fine-tuning on classification performance.
 img: assets/img/project_5.jpg
-redirect: https://github.com/djism/Data_Vis_Project1
+redirect: https://github.com/djism/NLP_Mini_Project3
 importance: 5
 category: Academic
 ---

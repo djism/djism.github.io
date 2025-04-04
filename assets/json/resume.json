@@ -5,7 +5,7 @@
     "image": "",
     "email": "dhananjay.sharma@stonybrook.edu",
     "phone": "(631) 949-7762",
-    "url": "https://dsharma.github.io/ds/",
+    "url": "https://djism.github.io",
     "summary": "A Data Science Master's student, specializes in NLP, machine learning, and software development, seeking internships.",
     "location": {
       "address": "40 Manchester Ln",
@@ -26,7 +26,7 @@
     {
       "name": "REGART (Intelligent Solutions for Regulatory Compliance)",
       "position": "Full Stack Developer",
-      "url": "https://example.com",
+      "url": "https://www.regart.eu/",
       "startDate": "2020-03-01",
       "endDate": "2023-05-20",
       "summary": "",
@@ -35,7 +35,7 @@
     {
       "name": "CGI (IT and Business Consulting Services)",
       "position": "Full Stack Developer",
-      "url": "https://example.com",
+      "url": "https://www.cgi.com/en",
       "startDate": "2018-08-05",
       "endDate": "2019-08-19",
       "summary": "",
@@ -46,7 +46,7 @@
     {
       "institution": "Stony Brook University",
       "location": "New York, USA",
-      "url": "https://www.uzh.ch/",
+      "url": "https://www.stonybrook.edu/commcms/ams/graduate/_datascience.php",
       "area": "Data Science",
       "studyType": "Master's",
       "startDate": "2024-08-26",
@@ -57,7 +57,7 @@
     {
       "institution": "Indian Institute of Technology, Dhanbad",
       "location": "Jharkhand, India",
-      "url": "https://www.uzh.ch/",
+      "url": "https://www.iitism.ac.in/",
       "area": "Mathematics & Computing",
       "studyType": "Integrated M.Tech",
       "startDate": "2013-07-26",
@@ -71,14 +71,13 @@
       "name": "Machine Learning",
       "date": "2024-06-01",
       "issuer": "Stanford University",
-      "url": "https://example.com",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/C6XYM5JBE652",
       "icon": "fa-regular fa-laptop-code"
     },
     {
       "name": "Data Analytics",
       "date": "2025-03-30",
       "issuer": "Google",
-      "url": "https://example.com",
       "icon": "fa-solid fa-square-binary"
     }
   ],
@@ -286,22 +285,21 @@
   ],
   "languages": [
     {
-      "language": "Hindi",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Fluent",
       "icon": "fa-solid fa-language"
     },
     {
-      "language": "English",
+      "language": "Hindi",
       "fluency": "Fluent",
       "icon": "fa-solid fa-language"
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Data Science",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Data Science",
         "Machine Learning",
         "Natural Language Processing",
         "Computer Vision",

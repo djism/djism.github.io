@@ -1,0 +1,20 @@
+---
+layout: book-review
+title: Statistics and Data Analysis
+author: Ajit Tamhane
+cover: assets/img/book_covers/Book_Data_Analysis.png
+olid:  # use Open Library ID to fetch cover (if no `cover` is provided)
+isbn: 9780137444267 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
+categories: Computer Technology
+tags: top-100
+buy_link: https://www.amazon.com/Statistics-Data-Analysis-Elementary-Intermediate/dp/0137444265
+started: 2025-08-20
+finished: 
+released: 1999
+stars: 5
+goodreads_review:
+status: Finished
+---
+
+
+This text was written for Junior/Senior or graduate level students with a background in calculus who are required to take one course in statistics. The goal of the text is to introduce future engineers, scientists, economists, applied mathematicians, computer scientists, high school math teachers, experimental psychologists, and others to the concepts and methods of modern statistics and its applications to a wide variety of fields. The text emphasizes computer assisted data analyses as well as the mathematical bases of the underlying statistical methods.

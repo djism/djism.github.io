@@ -1,0 +1,20 @@
+---
+layout: book-review
+title: First Course in Probability
+author: Sheldon Ross
+cover: assets/img/book_covers/Book_Probability.png
+olid:  # use Open Library ID to fetch cover (if no `cover` is provided)
+isbn: 9780134753119 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
+categories: Computer Technology
+tags: top-100
+buy_link: https://www.amazon.com/First-Course-Probability-10th/dp/0134753119
+started: 2025-08-25
+finished: 
+released: 2019
+stars: 5
+goodreads_review:
+status: Finished
+---
+
+
+A First Course in Probability is an elementary introduction to the theory of probability for students in mathematics, statistics, engineering, and the sciences. Through clear and intuitive explanations, it presents not only the mathematics of probability theory, but also the many diverse possible applications of this subject through numerous examples. The 10th Edition includes many new and updated problems, exercises, and text material chosen both for interest level and for use in building student intuition about probability.

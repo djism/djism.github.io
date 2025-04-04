@@ -1,9 +1,9 @@
 ---
 layout: page
-title: FraudShield
-description: AI Fraud Detection System
+title: PredictStock
+description: A machine learning application that forecasts next-day stock prices using historical market data and provides interactive visualizations of price trends and technical indicators to support investment decisions.
 img: assets/img/project_8.jpg
-redirect: https://github.com/djism/Fraud_Detection_System_AI
+redirect: https://github.com/djism/stock_price_prediction
 importance: 8
 category: Academic
 ---
